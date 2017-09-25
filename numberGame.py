@@ -32,7 +32,7 @@ for n in range(1,21):
                 print("equals ",e)
                 print("incorrect, try again")
         else:
-            print("use the digits {}, {}, {}, and {} in your expression".format(n, fourDigits[0], fourDigits[1], fourDigits[2], fourDigits[3]))
+            print("use the digits {}, {}, {}, and {} in your expression".format(fourDigits[0], fourDigits[1], fourDigits[2], fourDigits[3]))
 
         
 
